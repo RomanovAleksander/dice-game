@@ -19,7 +19,7 @@ export default function DicePage() {
   } = useDiceGame();
 
   return (
-    <Container maxWidth="sm" sx={{ minHeight: '100vh', display: 'flex', alignItems: 'center', py: 4 }}>
+    <Container maxWidth="sm" sx={{ minHeight: '100vh', display: 'flex', alignItems: 'flex-start', p: 0 }}>
       <Paper elevation={0} sx={{ p: 2, width: '100%' }}>
         <Stack spacing={3} alignItems="center">
 
