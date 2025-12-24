@@ -1,4 +1,4 @@
 1:"$Sreact.fragment"
 2:I[39756,["/dice-game/_next/static/chunks/eeb1345d3055dfe4.js","/dice-game/_next/static/chunks/52f451660cba9d30.js","/dice-game/_next/static/chunks/4fd93823156e59e8.js"],"default"]
 3:I[37457,["/dice-game/_next/static/chunks/eeb1345d3055dfe4.js","/dice-game/_next/static/chunks/52f451660cba9d30.js","/dice-game/_next/static/chunks/4fd93823156e59e8.js"],"default"]
-0:{"buildId":"zX6IKEInG79Q9E2EqoE_Z","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
+0:{"buildId":"1G59gRh_kdA8XR3U-yZf9","rsc":["$","$1","c",{"children":[null,["$","$L2",null,{"parallelRouterKey":"children","template":["$","$L3",null,{}]}]]}],"loading":null,"isPartial":false}
