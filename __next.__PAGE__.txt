@@ -1,0 +1,9 @@
+1:"$Sreact.fragment"
+2:I[47257,["/dice-game/_next/static/chunks/4fd93823156e59e8.js"],"ClientPageRoot"]
+3:I[52683,["/dice-game/_next/static/chunks/eeb1345d3055dfe4.js","/dice-game/_next/static/chunks/52f451660cba9d30.js","/dice-game/_next/static/chunks/83437bef9d2bf63a.js","/dice-game/_next/static/chunks/2486dab169698a1f.js"],"default"]
+6:I[97367,["/dice-game/_next/static/chunks/4fd93823156e59e8.js"],"OutletBoundary"]
+7:"$Sreact.suspense"
+0:{"buildId":"zX6IKEInG79Q9E2EqoE_Z","rsc":["$","$1","c",{"children":[["$","$L2",null,{"Component":"$3","serverProvidedParams":{"searchParams":{},"params":{},"promises":["$@4","$@5"]}}],[["$","script","script-0",{"src":"/dice-game/_next/static/chunks/83437bef9d2bf63a.js","async":true}],["$","script","script-1",{"src":"/dice-game/_next/static/chunks/2486dab169698a1f.js","async":true}]],["$","$L6",null,{"children":["$","$7",null,{"name":"Next.MetadataOutlet","children":"$@8"}]}]]}],"loading":null,"isPartial":false}
+4:{}
+5:"$0:rsc:props:children:0:props:serverProvidedParams:params"
+8:null
